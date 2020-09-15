@@ -1,1 +1,2 @@
-# MJSB
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
